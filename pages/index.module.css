@@ -64,3 +64,16 @@
   margin-bottom: 12px;
   opacity: 0.65;
 }
+
+
+/* 追加スタイル */
+.index_heading__SbNcK{
+  font-size: 1.6em;
+  margin: 0;
+}
+
+.index_post__yZAm8{
+  border-bottom: 5px dotted #343539;
+  padding: 0px 0 20px;
+  margin: 0px 0 20px;
+}
